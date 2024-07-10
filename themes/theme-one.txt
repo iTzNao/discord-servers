@@ -1,0 +1,7 @@
+This example uses "╚╗" as an icon to signify a category, similar to a "#" for a channel. It also uses emojis and dots in channel names:
+
+╚╗ ・GENERAL
+#💬・lounge
+#🤖・commands
+#⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+#📺・self-promo
